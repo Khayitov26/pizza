@@ -1,0 +1,25 @@
+@font-face {
+    font-family: 'thin';
+    src: url(../fonts/montserrat/Montserrat-Thin.ttf);
+}
+
+@font-face {
+    font-family: 'light';
+    src: url(../fonts/montserrat/Montserrat-Light.ttf);
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(../fonts/montserrat/Montserrat-Regular.ttf);
+}
+
+@font-face {
+    font-family: 'bold';
+    src: url(../fonts/montserrat/Montserrat-Bold.ttf);
+}
+
+@font-face {
+    font-family: 'black';
+    src: url(../fonts/montserrat/Montserrat-Black.ttf);
+}
+
